@@ -10,8 +10,8 @@ https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read
 
 https://velog.io/@ljiwoo59/getnextline
 
+https://prezi.com/4mhun2mlbssd/get-next-line/
+
 https://stackoverflow.com/questions/14042824/where-is-open-max-defined-for-linux-systems
 
 https://man7.org/linux/man-pages/man2/open.2.html
-
-https://prezi.com/4mhun2mlbssd/get-next-line/
